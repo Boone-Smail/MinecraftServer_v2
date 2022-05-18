@@ -1,0 +1,2 @@
+Server start command in rpi ssh is as follows:
+./jdk-17.0.1+12/bin java -jar server.jar --nogui
